@@ -1,0 +1,146 @@
+html, body {
+    height: 100%;
+    
+}
+
+nav {
+    display: inline;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: -20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+#section1-header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.section1 {
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0, 0, 0, 0.2)), url(./images/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 120px;
+}
+
+
+
+
+
+#firstline {
+    margin-bottom: 100px;
+}
+
+
+
+h1 {
+    padding-top: 100px;
+    font-size: 60px;
+    margin-bottom: 5px;
+    z-index: 1;
+}
+
+article {
+    color: white;
+}
+
+
+
+.line2 {
+    padding-left: 280px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 5px;
+    z-index:;
+}
+
+
+
+
+
+
+
+.line1 {
+    
+}
+
+#line1 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.section2 {
+    display: flex;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+img {
+    height: 250px;
+    width: 370px;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+h3 {
+    color: white;
+    font-size: 25px;
+}
+
+#contentsection {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 86px;
+}
+
+.section3 {
+    display: flex;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.section4 {
+    display: flex;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
